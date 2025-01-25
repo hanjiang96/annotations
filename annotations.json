@@ -1,0 +1,20 @@
+[
+  {
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "http://example.org/annotation/1",
+    "type": "Annotation",
+    "motivation": "highlighting",
+    "target": {
+      "source": "https://drive.google.com/uc?id=1C8TcMU6Ywki1LJDclqoFr_9wIohrkfkN",
+      "selector": {
+        "type": "FragmentSelector",
+        "value": "full"
+      }
+    },
+    "body": {
+      "type": "TextualBody",
+      "value": "Annotation for image 1",
+      "format": "text/plain"
+    }
+  }
+]
