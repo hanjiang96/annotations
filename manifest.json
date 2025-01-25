@@ -1,0 +1,17 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://hanjiang96.github.io/annotations/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": ["Test Manifest"]
+  },
+  "items": [
+    {
+      "id": "https://hanjiang96.github.io/annotations/annotations.json",
+      "type": "AnnotationPage",
+      "label": {
+        "en": ["Annotation Page"]
+      }
+    }
+  ]
+}
